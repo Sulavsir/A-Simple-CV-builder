@@ -428,7 +428,7 @@ export default function App() {
         </div>
 
         <div className="p-4 mb-4">
-          <p className="font-bold text-lg">Objective</p>
+          <p className="font-bold text-lg">Profile Summary</p>
           <p>{objective}</p>
           <br />
           <p className="font-bold text-lg">Education</p>
